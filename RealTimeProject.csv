@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592440533138,937,Launch-1592440533108,200,OK,Login_newTours 1-1,text,true,,15863,126,1,1,http://www.newtours.demoaut.com/,641,0,321
+1592440534103,2839,Login-1592440534102,200,OK,Login_newTours 1-1,text,true,,15043,594,1,1,http://newtours.demoaut.com/mercuryreservation.php?osCsid=372954bc6873e6f7694606c43d904f27,2500,0,2121
+1592440536944,715,Login-1592440536943,200,OK,Login_newTours 1-1,text,true,,15042,512,1,1,http://www.newtours.demoaut.com/mercuryreservation.php?osCsid=372954bc6873e6f7694606c43d904f27,378,0,0
+1592440537732,951,FlightDetails-1592440537731,200,OK,FlightBooking 1-1,text,true,,20035,803,1,1,http://www.newtours.demoaut.com/mercuryreservation2.php,636,0,263
+1592440538692,1227,SearchFlight-1592440538691,200,OK,FlightBooking 1-1,text,true,,42315,828,1,1,http://www.newtours.demoaut.com/mercurypurchase.php,402,0,0
+1592440539927,622,PassangerDetails-1592440539927,200,OK,FlightBooking 1-1,text,true,,13408,1289,1,1,http://www.newtours.demoaut.com/mercurypurchase2.php,386,0,0
+1592440540557,646,BackToFlight-1592440540557,200,OK,FlightBooking 1-1,text,true,,15042,475,1,1,http://www.newtours.demoaut.com/mercuryreservation.php,395,0,0
+1592440541220,2,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,1,1,null,0,0,0
+1592440541230,1209,Signoff-1592440541228,200,OK,SignOff 1-1,text,true,,9029,459,1,1,http://newtours.demoaut.com/mercurysignon.php?osCsid=511ed7a439f3c62cdd6d96c5c585691e,1208,0,831

@@ -1,0 +1,255 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592442641209,3165,Launch-1592442641164,200,OK,Login_newTours 1-1,text,true,,15826,126,1,1,http://www.newtours.demoaut.com/,1903,0,1030
+1592442644402,12051,Login-1592442644401,200,OK,Login_newTours 1-1,text,true,,15043,594,1,1,http://newtours.demoaut.com/mercuryreservation.php?osCsid=89d712809555db7f09d17b3129f3aa6b,11440,0,10822
+1592442656455,1225,Login-1592442656454,200,OK,Login_newTours 1-1,text,true,,15043,512,1,1,http://www.newtours.demoaut.com/mercuryreservation.php?osCsid=89d712809555db7f09d17b3129f3aa6b,957,0,611
+1592442657733,848,FlightDetails-1592442657732,200,OK,FlightBooking 1-1,text,true,,20042,803,9,9,http://www.newtours.demoaut.com/mercuryreservation2.php,602,0,268
+1592442657819,825,FlightDetails-1592442657817,200,OK,FlightBooking 1-2,text,true,,20035,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,580,0,232
+1592442657913,801,FlightDetails-1592442657912,200,OK,FlightBooking 1-3,text,true,,20035,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,562,0,234
+1592442658015,805,FlightDetails-1592442658014,200,OK,FlightBooking 1-4,text,true,,20035,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,566,0,232
+1592442658111,804,FlightDetails-1592442658110,200,OK,FlightBooking 1-5,text,true,,20035,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,567,0,239
+1592442658210,828,FlightDetails-1592442658209,200,OK,FlightBooking 1-6,text,true,,20043,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,583,0,248
+1592442658308,817,FlightDetails-1592442658306,200,OK,FlightBooking 1-7,text,true,,20035,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,585,0,247
+1592442658408,1021,FlightDetails-1592442658407,200,OK,FlightBooking 1-8,text,true,,20035,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,758,0,247
+1592442658607,944,FlightDetails-1592442658606,200,OK,FlightBooking 1-10,text,true,,20035,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,618,0,265
+1592442658507,1226,FlightDetails-1592442658505,200,OK,FlightBooking 1-9,text,true,,20035,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,923,0,241
+1592442658648,1562,SearchFlight-1592442658646,200,OK,FlightBooking 1-2,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,777,0,0
+1592442658718,1494,SearchFlight-1592442658717,200,OK,FlightBooking 1-3,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,707,0,0
+1592442658823,1396,SearchFlight-1592442658823,200,OK,FlightBooking 1-4,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,602,0,0
+1592442658919,1307,SearchFlight-1592442658917,200,OK,FlightBooking 1-5,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,553,0,0
+1592442659043,1190,SearchFlight-1592442659042,200,OK,FlightBooking 1-6,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,387,0,0
+1592442658585,1648,SearchFlight-1592442658584,200,OK,FlightBooking 1-1,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,643,0,0
+1592442659432,836,SearchFlight-1592442659432,200,OK,FlightBooking 1-8,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,343,0,0
+1592442659736,821,SearchFlight-1592442659736,200,OK,FlightBooking 1-9,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,331,0,0
+1592442660271,354,PassangerDetails-1592442660270,200,OK,FlightBooking 1-8,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,352,0,0
+1592442660236,447,PassangerDetails-1592442660236,200,OK,FlightBooking 1-6,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,446,0,0
+1592442659128,1596,SearchFlight-1592442659126,200,OK,FlightBooking 1-7,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,638,0,0
+1592442660221,519,PassangerDetails-1592442660220,200,OK,FlightBooking 1-4,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,518,0,0
+1592442660215,571,PassangerDetails-1592442660214,200,OK,FlightBooking 1-3,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,344,0,0
+1592442659554,1309,SearchFlight-1592442659553,200,OK,FlightBooking 1-10,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,610,0,0
+1592442660229,690,PassangerDetails-1592442660228,200,OK,FlightBooking 1-5,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,689,0,0
+1592442660560,412,PassangerDetails-1592442660559,200,OK,FlightBooking 1-9,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,412,0,0
+1592442660218,812,PassangerDetails-1592442660217,200,OK,FlightBooking 1-2,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,578,0,0
+1592442660629,412,BackToFlight-1592442660628,200,OK,FlightBooking 1-8,text,true,,15035,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,411,0,0
+1592442661050,1,Debug Sampler,200,OK,FlightBooking 1-8,text,true,,483,0,10,10,null,0,0,0
+1592442660236,856,PassangerDetails-1592442660235,200,OK,FlightBooking 1-1,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,620,0,0
+1592442660742,366,BackToFlight-1592442660741,200,OK,FlightBooking 1-4,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,362,0,0
+1592442661110,0,Debug Sampler,200,OK,FlightBooking 1-4,text,true,,483,0,10,10,null,0,0,0
+1592442660685,541,BackToFlight-1592442660684,200,OK,FlightBooking 1-6,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,516,0,0
+1592442661226,0,Debug Sampler,200,OK,FlightBooking 1-6,text,true,,483,0,10,10,null,0,0,0
+1592442660922,492,BackToFlight-1592442660920,200,OK,FlightBooking 1-5,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,488,0,0
+1592442661415,0,Debug Sampler,200,OK,FlightBooking 1-5,text,true,,482,0,10,10,null,0,0,0
+1592442660727,733,PassangerDetails-1592442660712,200,OK,FlightBooking 1-7,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,501,0,0
+1592442660789,737,BackToFlight-1592442660788,200,OK,FlightBooking 1-3,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,499,0,0
+1592442661528,0,Debug Sampler,200,OK,FlightBooking 1-3,text,true,,483,0,10,10,null,0,0,0
+1592442660974,558,BackToFlight-1592442660973,200,OK,FlightBooking 1-9,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,554,0,0
+1592442661533,0,Debug Sampler,200,OK,FlightBooking 1-9,text,true,,482,0,10,10,null,0,0,0
+1592442660866,698,PassangerDetails-1592442660865,200,OK,FlightBooking 1-10,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,475,0,0
+1592442661054,545,FlightDetails-1592442661053,200,OK,FlightBooking 1-8,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,542,0,0
+1592442661112,594,FlightDetails-1592442661111,200,OK,FlightBooking 1-4,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,368,0,0
+1592442661228,550,FlightDetails-1592442661227,200,OK,FlightBooking 1-6,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,550,0,0
+1592442661418,453,FlightDetails-1592442661417,200,OK,FlightBooking 1-5,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,451,0,0
+1592442661094,834,BackToFlight-1592442661093,200,OK,FlightBooking 1-1,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,556,0,0
+1592442661929,1,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,10,10,null,0,0,0
+1592442661032,927,BackToFlight-1592442661032,200,OK,FlightBooking 1-2,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,676,0,0
+1592442661960,0,Debug Sampler,200,OK,FlightBooking 1-2,text,true,,483,0,10,10,null,0,0,0
+1592442661535,483,FlightDetails-1592442661535,200,OK,FlightBooking 1-9,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,481,0,0
+1592442661566,588,BackToFlight-1592442661566,200,OK,FlightBooking 1-10,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,328,0,0
+1592442662156,0,Debug Sampler,200,OK,FlightBooking 1-10,text,true,,484,0,10,10,null,0,0,0
+1592442661463,750,BackToFlight-1592442661460,200,OK,FlightBooking 1-7,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,496,0,0
+1592442662215,0,Debug Sampler,200,OK,FlightBooking 1-7,text,true,,483,0,10,10,null,0,0,0
+1592442661531,787,FlightDetails-1592442661529,200,OK,FlightBooking 1-3,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,552,0,0
+1592442661601,793,SearchFlight-1592442661601,200,OK,FlightBooking 1-8,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,546,0,0
+1592442661708,732,SearchFlight-1592442661707,200,OK,FlightBooking 1-4,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,496,0,0
+1592442661780,749,SearchFlight-1592442661779,200,OK,FlightBooking 1-6,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,492,0,0
+1592442661874,699,SearchFlight-1592442661872,200,OK,FlightBooking 1-5,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,458,0,0
+1592442662019,609,SearchFlight-1592442662018,200,OK,FlightBooking 1-9,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,368,0,0
+1592442661961,789,FlightDetails-1592442661961,200,OK,FlightBooking 1-2,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,557,0,0
+1592442661931,827,FlightDetails-1592442661930,200,OK,FlightBooking 1-1,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,587,0,0
+1592442662396,364,PassangerDetails-1592442662395,200,OK,FlightBooking 1-8,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,363,0,0
+1592442662216,599,FlightDetails-1592442662214,200,OK,FlightBooking 1-7,text,true,,20016,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,359,0,0
+1592442662442,387,PassangerDetails-1592442662441,200,OK,FlightBooking 1-4,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,387,0,0
+1592442662158,706,FlightDetails-1592442662157,200,OK,FlightBooking 1-10,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,467,0,0
+1592442662531,362,PassangerDetails-1592442662530,200,OK,FlightBooking 1-6,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,362,0,0
+1592442662575,383,PassangerDetails-1592442662574,200,OK,FlightBooking 1-5,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,382,0,0
+1592442662630,378,PassangerDetails-1592442662629,200,OK,FlightBooking 1-9,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,377,0,0
+1592442662762,459,BackToFlight-1592442662761,200,OK,FlightBooking 1-8,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,456,0,0
+1592442663222,1,Debug Sampler,200,OK,FlightBooking 1-8,text,true,,483,0,10,10,null,0,0,0
+1592442663011,333,BackToFlight-1592442663008,200,OK,FlightBooking 1-9,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,328,0,0
+1592442663346,0,Debug Sampler,200,OK,FlightBooking 1-9,text,true,,482,0,10,10,null,0,0,0
+1592442662321,1147,SearchFlight-1592442662320,200,OK,FlightBooking 1-3,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,378,0,0
+1592442662960,513,BackToFlight-1592442662958,200,OK,FlightBooking 1-5,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,512,0,0
+1592442663475,0,Debug Sampler,200,OK,FlightBooking 1-5,text,true,,482,0,10,10,null,0,0,0
+1592442663226,422,FlightDetails-1592442663223,200,OK,FlightBooking 1-8,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,419,0,0
+1592442663348,357,FlightDetails-1592442663348,200,OK,FlightBooking 1-9,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,355,0,0
+1592442662895,870,BackToFlight-1592442662894,200,OK,FlightBooking 1-6,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,628,0,0
+1592442663767,0,Debug Sampler,200,OK,FlightBooking 1-6,text,true,,483,0,10,10,null,0,0,0
+1592442662832,992,BackToFlight-1592442662832,200,OK,FlightBooking 1-4,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,748,0,0
+1592442663825,0,Debug Sampler,200,OK,FlightBooking 1-4,text,true,,483,0,10,10,null,0,0,0
+1592442663477,389,FlightDetails-1592442663476,200,OK,FlightBooking 1-5,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,387,0,0
+1592442662753,1197,SearchFlight-1592442662752,200,OK,FlightBooking 1-2,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,461,0,0
+1592442663471,557,PassangerDetails-1592442663470,200,OK,FlightBooking 1-3,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,328,0,0
+1592442662818,1385,SearchFlight-1592442662817,200,OK,FlightBooking 1-7,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,396,0,0
+1592442663650,583,SearchFlight-1592442663649,200,OK,FlightBooking 1-8,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,334,0,0
+1592442662760,1505,SearchFlight-1592442662760,200,OK,FlightBooking 1-1,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,519,0,0
+1592442663707,575,SearchFlight-1592442663706,200,OK,FlightBooking 1-9,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,332,0,0
+1592442662866,1446,SearchFlight-1592442662865,200,OK,FlightBooking 1-10,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,533,0,0
+1592442663769,883,FlightDetails-1592442663768,200,OK,FlightBooking 1-6,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,350,0,0
+1592442663827,825,FlightDetails-1592442663826,200,OK,FlightBooking 1-4,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,352,0,0
+1592442663867,786,SearchFlight-1592442663867,200,OK,FlightBooking 1-5,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,381,0,0
+1592442663952,702,PassangerDetails-1592442663951,200,OK,FlightBooking 1-2,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,357,0,0
+1592442664235,447,PassangerDetails-1592442664235,200,OK,FlightBooking 1-8,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,446,0,0
+1592442664283,457,PassangerDetails-1592442664283,200,OK,FlightBooking 1-9,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,457,0,0
+1592442664030,863,BackToFlight-1592442664029,200,OK,FlightBooking 1-3,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,619,0,0
+1592442664896,0,Debug Sampler,200,OK,FlightBooking 1-3,text,true,,483,0,10,10,null,0,0,0
+1592442664206,697,PassangerDetails-1592442664205,200,OK,FlightBooking 1-7,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,449,0,0
+1592442664267,639,PassangerDetails-1592442664254,200,OK,FlightBooking 1-1,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,389,0,0
+1592442664655,341,PassangerDetails-1592442664654,200,OK,FlightBooking 1-5,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,340,0,0
+1592442664314,844,PassangerDetails-1592442664314,200,OK,FlightBooking 1-10,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,479,0,0
+1592442664683,476,BackToFlight-1592442664683,200,OK,FlightBooking 1-8,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,475,0,0
+1592442665161,0,Debug Sampler,200,OK,FlightBooking 1-8,text,true,,483,0,10,10,null,0,0,0
+1592442664656,741,BackToFlight-1592442664656,200,OK,FlightBooking 1-2,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,502,0,0
+1592442665398,0,Debug Sampler,200,OK,FlightBooking 1-2,text,true,,483,0,10,10,null,0,0,0
+1592442664654,764,SearchFlight-1592442664653,200,OK,FlightBooking 1-6,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,521,0,0
+1592442664742,678,BackToFlight-1592442664741,200,OK,FlightBooking 1-9,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,676,0,0
+1592442665421,0,Debug Sampler,200,OK,FlightBooking 1-9,text,true,,482,0,10,10,null,0,0,0
+1592442664905,641,BackToFlight-1592442664905,200,OK,FlightBooking 1-7,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,394,0,0
+1592442665548,0,Debug Sampler,200,OK,FlightBooking 1-7,text,true,,483,0,10,10,null,0,0,0
+1592442664908,728,BackToFlight-1592442664907,200,OK,FlightBooking 1-1,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,452,0,0
+1592442665638,0,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,10,10,null,0,0,0
+1592442665161,614,BackToFlight-1592442665160,200,OK,FlightBooking 1-10,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,373,0,0
+1592442664654,1121,SearchFlight-1592442664653,200,OK,FlightBooking 1-4,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,579,0,0
+1592442665777,0,Debug Sampler,200,OK,FlightBooking 1-10,text,true,,484,0,10,10,null,0,0,0
+1592442665420,375,PassangerDetails-1592442665420,200,OK,FlightBooking 1-6,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,375,0,0
+1592442665423,424,FlightDetails-1592442665420,200,OK,FlightBooking 1-9,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,421,0,0
+1592442664998,963,BackToFlight-1592442664996,200,OK,FlightBooking 1-5,text,true,,15049,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,639,0,0
+1592442665962,0,Debug Sampler,200,OK,FlightBooking 1-5,text,true,,482,0,10,10,null,0,0,0
+1592442665400,616,FlightDetails-1592442665398,200,OK,FlightBooking 1-2,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,372,0,0
+1592442665163,854,FlightDetails-1592442665162,200,OK,FlightBooking 1-8,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,609,0,0
+1592442665778,354,PassangerDetails-1592442665776,200,OK,FlightBooking 1-4,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,354,0,0
+1592442665550,614,FlightDetails-1592442665549,200,OK,FlightBooking 1-7,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,360,0,0
+1592442665797,459,BackToFlight-1592442665797,200,OK,FlightBooking 1-6,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,454,0,0
+1592442664899,1357,FlightDetails-1592442664899,200,OK,FlightBooking 1-3,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,877,0,0
+1592442666258,0,Debug Sampler,200,OK,FlightBooking 1-6,text,true,,483,0,10,10,null,0,0,0
+1592442665641,808,FlightDetails-1592442665641,200,OK,FlightBooking 1-1,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,424,0,0
+1592442665778,671,FlightDetails-1592442665777,200,OK,FlightBooking 1-10,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,403,0,0
+1592442666134,428,BackToFlight-1592442666132,200,OK,FlightBooking 1-4,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,425,0,0
+1592442666564,0,Debug Sampler,200,OK,FlightBooking 1-4,text,true,,483,0,10,10,null,0,0,0
+1592442665849,844,SearchFlight-1592442665848,200,OK,FlightBooking 1-9,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,596,0,0
+1592442665963,735,FlightDetails-1592442665962,200,OK,FlightBooking 1-5,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,486,0,0
+1592442666018,680,SearchFlight-1592442666017,200,OK,FlightBooking 1-8,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,431,0,0
+1592442666260,780,FlightDetails-1592442666259,200,OK,FlightBooking 1-6,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,484,0,0
+1592442666566,474,FlightDetails-1592442666564,200,OK,FlightBooking 1-4,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,474,0,0
+1592442666018,1254,SearchFlight-1592442666017,200,OK,FlightBooking 1-2,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,476,0,0
+1592442666166,1220,SearchFlight-1592442666165,200,OK,FlightBooking 1-7,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,449,0,0
+1592442666258,1230,SearchFlight-1592442666258,200,OK,FlightBooking 1-3,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,425,0,0
+1592442666700,796,PassangerDetails-1592442666699,200,OK,FlightBooking 1-8,text,true,,13408,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,549,0,0
+1592442666696,848,PassangerDetails-1592442666695,200,OK,FlightBooking 1-9,text,true,,13408,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,621,0,0
+1592442666452,1108,SearchFlight-1592442666451,200,OK,FlightBooking 1-10,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,414,0,0
+1592442666452,1150,SearchFlight-1592442666451,200,OK,FlightBooking 1-1,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,368,0,0
+1592442666700,902,SearchFlight-1592442666699,200,OK,FlightBooking 1-5,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,419,0,0
+1592442667043,617,SearchFlight-1592442667041,200,OK,FlightBooking 1-6,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,358,0,0
+1592442667043,658,SearchFlight-1592442667041,200,OK,FlightBooking 1-4,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,416,0,0
+1592442667275,584,PassangerDetails-1592442667272,200,OK,FlightBooking 1-2,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,357,0,0
+1592442667388,587,PassangerDetails-1592442667387,200,OK,FlightBooking 1-7,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,346,0,0
+1592442667604,414,PassangerDetails-1592442667604,200,OK,FlightBooking 1-5,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,414,0,0
+1592442667490,556,PassangerDetails-1592442667488,200,OK,FlightBooking 1-3,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,327,0,0
+1592442667498,615,BackToFlight-1592442667497,200,OK,FlightBooking 1-8,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,381,0,0
+1592442668114,0,Debug Sampler,200,OK,FlightBooking 1-8,text,true,,483,0,10,10,null,0,0,0
+1592442667562,600,PassangerDetails-1592442667561,200,OK,FlightBooking 1-10,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,375,0,0
+1592442667546,754,BackToFlight-1592442667544,200,OK,FlightBooking 1-9,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,514,0,0
+1592442668301,0,Debug Sampler,200,OK,FlightBooking 1-9,text,true,,482,0,10,10,null,0,0,0
+1592442667604,770,PassangerDetails-1592442667604,200,OK,FlightBooking 1-1,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,526,0,0
+1592442667703,767,PassangerDetails-1592442667703,200,OK,FlightBooking 1-4,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,495,0,0
+1592442667662,847,PassangerDetails-1592442667662,200,OK,FlightBooking 1-6,text,true,,13407,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,603,0,0
+1592442667861,700,BackToFlight-1592442667860,200,OK,FlightBooking 1-2,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,460,0,0
+1592442668562,0,Debug Sampler,200,OK,FlightBooking 1-2,text,true,,483,0,10,10,null,0,0,0
+1592442668048,591,BackToFlight-1592442668047,200,OK,FlightBooking 1-3,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,342,0,0
+1592442668640,0,Debug Sampler,200,OK,FlightBooking 1-3,text,true,,483,0,10,10,null,0,0,0
+1592442667977,779,BackToFlight-1592442667970,200,OK,FlightBooking 1-7,text,true,,15017,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,475,0,0
+1592442668757,0,Debug Sampler,200,OK,FlightBooking 1-7,text,true,,483,0,10,10,null,0,0,0
+1592442668020,739,BackToFlight-1592442668020,200,OK,FlightBooking 1-5,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,497,0,0
+1592442668760,0,Debug Sampler,200,OK,FlightBooking 1-5,text,true,,482,0,10,10,null,0,0,0
+1592442668116,711,FlightDetails-1592442668116,200,OK,FlightBooking 1-8,text,true,,20042,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,470,0,0
+1592442668472,361,BackToFlight-1592442668470,200,OK,FlightBooking 1-4,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,356,0,0
+1592442668833,0,Debug Sampler,200,OK,FlightBooking 1-4,text,true,,483,0,10,10,null,0,0,0
+1592442668163,699,BackToFlight-1592442668163,200,OK,FlightBooking 1-10,text,true,,15035,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,468,0,0
+1592442668863,0,Debug Sampler,200,OK,FlightBooking 1-10,text,true,,484,0,10,10,null,0,0,0
+1592442668304,627,FlightDetails-1592442668303,200,OK,FlightBooking 1-9,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,452,0,0
+1592442668375,633,BackToFlight-1592442668375,200,OK,FlightBooking 1-1,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,388,0,0
+1592442669009,0,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,10,10,null,0,0,0
+1592442668511,626,BackToFlight-1592442668510,200,OK,FlightBooking 1-6,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,382,0,0
+1592442669139,0,Debug Sampler,200,OK,FlightBooking 1-6,text,true,,483,0,10,10,null,0,0,0
+1592442668564,644,FlightDetails-1592442668551,200,OK,FlightBooking 1-2,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,397,0,0
+1592442668640,611,FlightDetails-1592442668640,200,OK,FlightBooking 1-3,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,384,0,0
+1592442668762,579,FlightDetails-1592442668761,200,OK,FlightBooking 1-5,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,337,0,0
+1592442668759,658,FlightDetails-1592442668758,200,OK,FlightBooking 1-7,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,411,0,0
+1592442668828,785,SearchFlight-1592442668828,200,OK,FlightBooking 1-8,text,true,,42315,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,414,0,0
+1592442668864,751,FlightDetails-1592442668863,200,OK,FlightBooking 1-10,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,491,0,0
+1592442668834,781,FlightDetails-1592442668833,200,OK,FlightBooking 1-4,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,466,0,0
+1592442669011,769,FlightDetails-1592442669010,200,OK,FlightBooking 1-1,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,505,0,0
+1592442669141,727,FlightDetails-1592442669139,200,OK,FlightBooking 1-6,text,true,,20034,803,10,10,http://www.newtours.demoaut.com/mercuryreservation2.php,476,0,0
+1592442668933,986,SearchFlight-1592442668932,200,OK,FlightBooking 1-9,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,485,0,0
+1592442669344,648,SearchFlight-1592442669342,200,OK,FlightBooking 1-5,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,401,0,0
+1592442669615,466,PassangerDetails-1592442669615,200,OK,FlightBooking 1-8,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,465,0,0
+1592442669921,345,PassangerDetails-1592442669921,200,OK,FlightBooking 1-9,text,true,,13400,1289,10,10,http://www.newtours.demoaut.com/mercurypurchase2.php,344,0,0
+1592442669210,1114,SearchFlight-1592442669209,200,OK,FlightBooking 1-2,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,402,0,0
+1592442669253,1146,SearchFlight-1592442669248,200,OK,FlightBooking 1-3,text,true,,42307,828,10,10,http://www.newtours.demoaut.com/mercurypurchase.php,427,0,0
+1592442670084,339,BackToFlight-1592442670083,200,OK,FlightBooking 1-8,text,true,,15042,475,10,10,http://www.newtours.demoaut.com/mercuryreservation.php,333,0,0
+1592442670424,1,Debug Sampler,200,OK,FlightBooking 1-8,text,true,,483,0,10,10,null,0,0,0
+1592442669616,889,SearchFlight-1592442669616,200,OK,FlightBooking 1-4,text,true,,42315,828,9,9,http://www.newtours.demoaut.com/mercurypurchase.php,403,0,0
+1592442669420,1090,SearchFlight-1592442669419,200,OK,FlightBooking 1-7,text,true,,42315,828,9,9,http://www.newtours.demoaut.com/mercurypurchase.php,380,0,0
+1592442669994,577,PassangerDetails-1592442669993,200,OK,FlightBooking 1-5,text,true,,13814,1289,9,9,http://www.newtours.demoaut.com/mercurypurchase2.php,344,0,0
+1592442669616,1004,SearchFlight-1592442669616,200,OK,FlightBooking 1-10,text,true,,42307,828,9,9,http://www.newtours.demoaut.com/mercurypurchase.php,329,0,0
+1592442670267,353,BackToFlight-1592442670267,200,OK,FlightBooking 1-9,text,true,,15035,475,9,9,http://www.newtours.demoaut.com/mercuryreservation.php,353,0,0
+1592442670621,1,Debug Sampler,200,OK,FlightBooking 1-9,text,true,,482,0,9,9,null,0,0,0
+1592442669870,828,SearchFlight-1592442669869,200,OK,FlightBooking 1-6,text,true,,42307,828,8,8,http://www.newtours.demoaut.com/mercurypurchase.php,337,0,0
+1592442670507,385,PassangerDetails-1592442670505,200,OK,FlightBooking 1-4,text,true,,13400,1289,8,8,http://www.newtours.demoaut.com/mercurypurchase2.php,385,0,0
+1592442669782,1117,SearchFlight-1592442669781,200,OK,FlightBooking 1-1,text,true,,42307,828,8,8,http://www.newtours.demoaut.com/mercurypurchase.php,383,0,0
+1592442670326,573,PassangerDetails-1592442670326,200,OK,FlightBooking 1-2,text,true,,13400,1289,8,8,http://www.newtours.demoaut.com/mercurypurchase2.php,347,0,0
+1592442670401,675,PassangerDetails-1592442670400,200,OK,FlightBooking 1-3,text,true,,13408,1289,8,8,http://www.newtours.demoaut.com/mercurypurchase2.php,344,0,0
+1592442670700,387,PassangerDetails-1592442670690,200,OK,FlightBooking 1-6,text,true,,13400,1289,8,8,http://www.newtours.demoaut.com/mercurypurchase2.php,387,0,0
+1592442670513,618,PassangerDetails-1592442670511,200,OK,FlightBooking 1-7,text,true,,13400,1289,8,8,http://www.newtours.demoaut.com/mercurypurchase2.php,384,0,0
+1592442670622,570,PassangerDetails-1592442670607,200,OK,FlightBooking 1-10,text,true,,13407,1289,8,8,http://www.newtours.demoaut.com/mercurypurchase2.php,338,0,0
+1592442670894,332,BackToFlight-1592442670893,200,OK,FlightBooking 1-4,text,true,,15042,475,8,8,http://www.newtours.demoaut.com/mercuryreservation.php,327,0,0
+1592442671228,0,Debug Sampler,200,OK,FlightBooking 1-4,text,true,,483,0,8,8,null,0,0,0
+1592442670573,688,BackToFlight-1592442670572,200,OK,FlightBooking 1-5,text,true,,15042,475,7,7,http://www.newtours.demoaut.com/mercuryreservation.php,451,0,0
+1592442671262,0,Debug Sampler,200,OK,FlightBooking 1-5,text,true,,482,0,7,7,null,0,0,0
+1592442671089,462,BackToFlight-1592442671088,200,OK,FlightBooking 1-6,text,true,,15042,475,6,6,http://www.newtours.demoaut.com/mercuryreservation.php,462,0,0
+1592442670900,652,PassangerDetails-1592442670900,200,OK,FlightBooking 1-1,text,true,,13400,1289,6,6,http://www.newtours.demoaut.com/mercurypurchase2.php,390,0,0
+1592442671552,0,Debug Sampler,200,OK,FlightBooking 1-6,text,true,,483,0,6,6,null,0,0,0
+1592442670900,691,BackToFlight-1592442670900,200,OK,FlightBooking 1-2,text,true,,15042,475,5,5,http://www.newtours.demoaut.com/mercuryreservation.php,447,0,0
+1592442671592,0,Debug Sampler,200,OK,FlightBooking 1-2,text,true,,483,0,5,5,null,0,0,0
+1592442671194,756,BackToFlight-1592442671194,200,OK,FlightBooking 1-10,text,true,,15042,475,5,5,http://www.newtours.demoaut.com/mercuryreservation.php,391,0,0
+1592442671078,872,BackToFlight-1592442671077,200,OK,FlightBooking 1-3,text,true,,15042,475,5,5,http://www.newtours.demoaut.com/mercuryreservation.php,473,0,0
+1592442671952,0,Debug Sampler,200,OK,FlightBooking 1-10,text,true,,484,0,5,5,null,0,0,0
+1592442671952,0,Debug Sampler,200,OK,FlightBooking 1-3,text,true,,483,0,5,5,null,0,0,0
+1592442671132,821,BackToFlight-1592442671132,200,OK,FlightBooking 1-7,text,true,,15042,475,5,5,http://www.newtours.demoaut.com/mercuryreservation.php,419,0,0
+1592442671955,0,Debug Sampler,200,OK,FlightBooking 1-7,text,true,,483,0,5,5,null,0,0,0
+1592442671553,756,BackToFlight-1592442671553,200,OK,FlightBooking 1-1,text,true,,15042,475,5,5,http://www.newtours.demoaut.com/mercuryreservation.php,398,0,0
+1592442672311,0,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,5,5,null,0,0,0
+1592442671594,718,FlightDetails-1592442671594,200,OK,FlightBooking 1-2,text,true,,20034,803,5,5,http://www.newtours.demoaut.com/mercuryreservation2.php,367,0,0
+1592442671955,677,FlightDetails-1592442671953,200,OK,FlightBooking 1-10,text,true,,20034,803,5,5,http://www.newtours.demoaut.com/mercuryreservation2.php,384,0,0
+1592442671955,677,FlightDetails-1592442671953,200,OK,FlightBooking 1-3,text,true,,20034,803,5,5,http://www.newtours.demoaut.com/mercuryreservation2.php,357,0,0
+1592442671956,696,FlightDetails-1592442671953,200,OK,FlightBooking 1-7,text,true,,20034,803,5,5,http://www.newtours.demoaut.com/mercuryreservation2.php,449,0,0
+1592442672313,768,FlightDetails-1592442672313,200,OK,FlightBooking 1-1,text,true,,20013,803,5,5,http://www.newtours.demoaut.com/mercuryreservation2.php,524,0,0
+1592442672314,819,SearchFlight-1592442672313,200,OK,FlightBooking 1-2,text,true,,42271,828,5,5,http://www.newtours.demoaut.com/mercurypurchase.php,336,0,0
+1592442672654,869,SearchFlight-1592442672654,200,OK,FlightBooking 1-7,text,true,,42279,828,5,5,http://www.newtours.demoaut.com/mercurypurchase.php,372,0,0
+1592442672635,1026,SearchFlight-1592442672634,200,OK,FlightBooking 1-3,text,true,,42271,828,5,5,http://www.newtours.demoaut.com/mercurypurchase.php,332,0,0
+1592442672635,1121,SearchFlight-1592442672634,200,OK,FlightBooking 1-10,text,true,,42271,828,5,5,http://www.newtours.demoaut.com/mercurypurchase.php,442,0,0
+1592442673135,890,PassangerDetails-1592442673134,200,OK,FlightBooking 1-2,text,true,,13401,1289,5,5,http://www.newtours.demoaut.com/mercurypurchase2.php,586,0,238
+1592442673525,788,PassangerDetails-1592442673519,200,OK,FlightBooking 1-7,text,true,,13409,1289,5,5,http://www.newtours.demoaut.com/mercurypurchase2.php,557,0,227
+1592442673083,1422,SearchFlight-1592442673082,200,OK,FlightBooking 1-1,text,true,,42308,828,5,5,http://www.newtours.demoaut.com/mercurypurchase.php,568,0,240
+1592442673662,893,PassangerDetails-1592442673661,200,OK,FlightBooking 1-3,text,true,,13401,1289,5,5,http://www.newtours.demoaut.com/mercurypurchase2.php,666,0,301
+1592442673758,1305,PassangerDetails-1592442673757,200,OK,FlightBooking 1-10,text,true,,13401,1289,5,5,http://www.newtours.demoaut.com/mercurypurchase2.php,644,0,267
+1592442674556,1102,BackToFlight-1592442674548,200,OK,FlightBooking 1-3,text,true,,15042,475,5,5,http://www.newtours.demoaut.com/mercuryreservation.php,507,0,0
+1592442674507,1151,PassangerDetails-1592442674504,200,OK,FlightBooking 1-1,text,true,,13400,1289,5,5,http://www.newtours.demoaut.com/mercurypurchase2.php,556,0,0
+1592442675660,0,Debug Sampler,200,OK,FlightBooking 1-3,text,true,,483,0,5,5,null,0,0,0
+1592442674027,1680,BackToFlight-1592442674027,200,OK,FlightBooking 1-2,text,true,,15042,475,4,4,http://www.newtours.demoaut.com/mercuryreservation.php,427,0,0
+1592442675708,0,Debug Sampler,200,OK,FlightBooking 1-2,text,true,,483,0,4,4,null,0,0,0
+1592442675065,1223,BackToFlight-1592442675064,200,OK,FlightBooking 1-10,text,true,,15042,475,3,3,http://www.newtours.demoaut.com/mercuryreservation.php,593,0,0
+1592442676289,0,Debug Sampler,200,OK,FlightBooking 1-10,text,true,,484,0,3,3,null,0,0,0
+1592442674314,1975,BackToFlight-1592442674314,200,OK,FlightBooking 1-7,text,true,,15042,475,3,3,http://www.newtours.demoaut.com/mercuryreservation.php,749,0,0
+1592442676290,0,Debug Sampler,200,OK,FlightBooking 1-7,text,true,,483,0,2,2,null,0,0,0
+1592442675660,1067,BackToFlight-1592442675660,200,OK,FlightBooking 1-1,text,true,,15042,475,1,1,http://www.newtours.demoaut.com/mercuryreservation.php,630,0,0
+1592442676728,0,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,1,1,null,0,0,0
+1592442676733,2145,Signoff-1592442676731,200,OK,SignOff 1-1,text,true,,9029,459,1,1,http://newtours.demoaut.com/mercurysignon.php?osCsid=fb573d473fc9fb334d31c25f5776f1d2,2145,0,1734

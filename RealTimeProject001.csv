@@ -1,0 +1,30 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592442032450,2502,Launch-1592442032420,200,OK,Login_newTours 1-1,text,true,,15863,126,1,1,http://www.newtours.demoaut.com/,1881,0,1168
+1592442034992,3984,Login-1592442034991,200,OK,Login_newTours 1-1,text,true,,15043,594,1,1,http://newtours.demoaut.com/mercuryreservation.php?osCsid=364cf65ca76ddffcdbcfe827086c80e6,3646,0,2722
+1592442038978,989,Login-1592442038978,200,OK,Login_newTours 1-1,text,true,,15050,512,1,1,http://www.newtours.demoaut.com/mercuryreservation.php?osCsid=364cf65ca76ddffcdbcfe827086c80e6,580,0,0
+1592442040014,1183,FlightDetails-1592442040013,200,OK,FlightBooking 1-1,text,true,,20043,803,1,1,http://www.newtours.demoaut.com/mercuryreservation2.php,774,0,260
+1592442041204,1017,SearchFlight-1592442041203,200,OK,FlightBooking 1-1,text,true,,42315,828,1,1,http://www.newtours.demoaut.com/mercurypurchase.php,359,0,0
+1592442042227,602,PassangerDetails-1592442042227,200,OK,FlightBooking 1-1,text,true,,13408,1289,1,1,http://www.newtours.demoaut.com/mercurypurchase2.php,601,0,0
+1592442042834,413,BackToFlight-1592442042834,200,OK,FlightBooking 1-1,text,true,,15042,475,1,1,http://www.newtours.demoaut.com/mercuryreservation.php,412,0,0
+1592442043264,3,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,1,1,null,0,0,0
+1592442043274,485,FlightDetails-1592442043273,200,OK,FlightBooking 1-1,text,true,,20042,803,1,1,http://www.newtours.demoaut.com/mercuryreservation2.php,485,0,0
+1592442043763,711,SearchFlight-1592442043763,200,OK,FlightBooking 1-1,text,true,,42315,828,1,1,http://www.newtours.demoaut.com/mercurypurchase.php,361,0,0
+1592442044481,618,PassangerDetails-1592442044481,200,OK,FlightBooking 1-1,text,true,,13400,1289,1,1,http://www.newtours.demoaut.com/mercurypurchase2.php,618,0,0
+1592442045106,540,BackToFlight-1592442045105,200,OK,FlightBooking 1-1,text,true,,15042,475,1,1,http://www.newtours.demoaut.com/mercuryreservation.php,537,0,0
+1592442045648,0,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,1,1,null,0,0,0
+1592442045650,367,FlightDetails-1592442045650,200,OK,FlightBooking 1-1,text,true,,20042,803,1,1,http://www.newtours.demoaut.com/mercuryreservation2.php,366,0,0
+1592442046023,1316,SearchFlight-1592442046022,200,OK,FlightBooking 1-1,text,true,,42315,828,1,1,http://www.newtours.demoaut.com/mercurypurchase.php,361,0,0
+1592442047348,647,PassangerDetails-1592442047347,200,OK,FlightBooking 1-1,text,true,,13408,1289,1,1,http://www.newtours.demoaut.com/mercurypurchase2.php,646,0,0
+1592442048000,377,BackToFlight-1592442048000,200,OK,FlightBooking 1-1,text,true,,15042,475,1,1,http://www.newtours.demoaut.com/mercuryreservation.php,373,0,0
+1592442048382,0,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,1,1,null,0,0,0
+1592442048389,728,FlightDetails-1592442048388,200,OK,FlightBooking 1-1,text,true,,20042,803,1,1,http://www.newtours.demoaut.com/mercuryreservation2.php,725,0,0
+1592442049123,1698,SearchFlight-1592442049122,200,OK,FlightBooking 1-1,text,true,,42315,828,1,1,http://www.newtours.demoaut.com/mercurypurchase.php,780,0,0
+1592442050826,367,PassangerDetails-1592442050826,200,OK,FlightBooking 1-1,text,true,,13408,1289,1,1,http://www.newtours.demoaut.com/mercurypurchase2.php,366,0,0
+1592442051202,531,BackToFlight-1592442051202,200,OK,FlightBooking 1-1,text,true,,15042,475,1,1,http://www.newtours.demoaut.com/mercuryreservation.php,530,0,0
+1592442051737,0,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,1,1,null,0,0,0
+1592442051738,721,FlightDetails-1592442051738,200,OK,FlightBooking 1-1,text,true,,20042,803,1,1,http://www.newtours.demoaut.com/mercuryreservation2.php,366,0,0
+1592442052465,918,SearchFlight-1592442052464,200,OK,FlightBooking 1-1,text,true,,42315,828,1,1,http://www.newtours.demoaut.com/mercurypurchase.php,491,0,0
+1592442053388,366,PassangerDetails-1592442053388,200,OK,FlightBooking 1-1,text,true,,13408,1289,1,1,http://www.newtours.demoaut.com/mercurypurchase2.php,366,0,0
+1592442053760,497,BackToFlight-1592442053759,200,OK,FlightBooking 1-1,text,true,,15042,475,1,1,http://www.newtours.demoaut.com/mercuryreservation.php,495,0,0
+1592442054260,0,Debug Sampler,200,OK,FlightBooking 1-1,text,true,,483,0,1,1,null,0,0,0
+1592442054266,1424,Signoff-1592442054264,200,OK,SignOff 1-1,text,true,,9029,459,1,1,http://newtours.demoaut.com/mercurysignon.php?osCsid=b2854dfa5f55dff25886dbc83bfa8255,1424,0,1060

@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1591629238658,3366,HomePage,200,OK,Thread Group 1-1,text,true,,50632,117,1,1,http://lifecharger.org/,2257,0,419
+1591629242036,4792,ArchivePage,200,OK,Thread Group 1-1,text,true,,54668,251,1,1,http://lifecharger.org/archives/,1297,0,0
+1591629242036,1297,ArchivePage-0,301,Moved Permanently,Thread Group 1-1,text,true,,951,125,1,1,http://lifecharger.org/archives,1297,0,0
+1591629243337,3491,ArchivePage-1,200,OK,Thread Group 1-1,text,true,,53717,126,1,1,http://lifecharger.org/archives/,2059,0,0
+1591629246830,2790,AboutPage,200,OK,Thread Group 1-1,text,true,,33824,245,1,1,http://lifecharger.org/about/,1131,0,0
+1591629246830,1131,AboutPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,995,122,1,1,http://lifecharger.org/about,1131,0,0
+1591629247962,1658,AboutPage-1,200,OK,Thread Group 1-1,text,true,,32829,123,1,1,http://lifecharger.org/about/,1375,0,0
