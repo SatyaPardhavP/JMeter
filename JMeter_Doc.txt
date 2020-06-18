@@ -1,0 +1,98 @@
+Test Plan -> Group of test elements (elements should be saved in test plan)
+
+Thread Group -> Users
+
+Add request -> User -> Add -> Sampler (Request: By using request we can perform testing)
+
+Stop: i will forcebelly stop the execution
+Shutdown: if all the threads are stopped, then execution stop
+
+Assertion: To check the response
+1. Response Assertion
+2. Duration Assertion
+3. Size Assertion
+4. HTML Assertion -> to check format of html (Valid/Invalid)
+5. XML Assertion
+6. XPath Assertion
+
+Listener: Elements that gather information about the performance test
+
+used to view results / metrics of the test
+
+latency = time of first byte
+
+--> How to record (script recorder)
+1. Tools available for recording Jmeter UI test
+  --> badboy software (Windows)
+  --> Blazemeter - chrome plugin - windows & mac
+  
+Run Jmeter for Non GUI:
+
+jmeter -n -t [location of your jmeter test script] -l [location of the result file]
+
+-n -> non gui mode
+-t -> location of jmeter script
+-l -> location of result file
+-j -> logs
+-e -> generate report in HTML
+-o -> display file location of output folder
+
+jmeter -n -t D:\JMeter\jmeter_docs\JmeterCommandLine_Test.jmx -l C:\Users\pardh\Desktop\SampleResult.csv -j C:\Users\pardh\Desktop\test_logs.txt
+
+
+-> How to test FTP upload and download
+https://www.swfwmd.state.fi.us/data/ftp/
+
+==> API = Application programming Interface
+
+how to test REST API:--
+Step 1: Add HTTP Request Sampler
+
+https://samples.openweathermap.org/data/2.5/weather?q=NewDelhi&appid=439d4b804bc8187953eb36d2a8c26a02
+
+https://samples.openweathermap.org
+/data/2.5/weather?
+q=NewDelhi&appid=439d4b804bc8187953eb36d2a8c26a02
+
+jmeter -n -t D:\JMeter\jmeter_docs\CreateHTMLReport_CommandLine.jmx -l D:\JMeter\jmeter_docs\test003.csv -e -o D:\JMeter\jmeter_docs\HTMLReports
+
+==> How to create HTML Reports from command line
+
+jmeter -g D:\JMeter\jmeter_docs\test007.csv -e -o D:\JMeter\jmeter_docs\HTMLReports
+
+==> JMeter Plugin manager
+
+==> Functions in JMeter
+Any method that can populate a field in any other element of a test plan 
+syntax: ${__functionName(var1,var2,.....)}
+
+Variable: Container that can store a value which can be referenced by any other element within the thread. (local to a thread)
+syntax: $(variableName)
+
+function - caseSensitive | camelCasting
+
+==> How to setup realistic performance test - PACING
+
+What is a real-world performance test
+
+think Time - simulate actual user actions with timings/delays
+
+Pacing - controlled ramp-up and down of virtual users
+       - control timing between iterations
+	   - achieve x iterations in y 
+	   
+-- Add plugin stepping thread group
+
+==> Correlation:
+The process of extracting some value from the response of a step 
+and referring it into the request of other subsequent step is called 
+correlation
+
+jmeter -n -t D:\JMeter\jmeter_docs\RealTimeProject.jmx -l D:\JMeter\jmeter_docs\RealTimeProject.csv -e -o D:\JMeter\jmeter_docs\RealTimeProjectHTMLReports
+
+Thread[DestroyJavaVM,5,main], stackTrace:
+
+
+
+
+
